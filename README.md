@@ -19,7 +19,7 @@ pandas>=1.3.0
 yfinance>=0.1.87
 scikit-learn>=1.0.0
 matplotlib>=3.5.0
-```
+```----
 
 ## Installation
 ```bash
